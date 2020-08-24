@@ -1,0 +1,1 @@
+{'ver1':'90', 'ver2':'00', 'ver3':'\nتحديث واتساب عمر باوزير\n جديد \n' , 'dli':'https://www.zemods.cc/2020/08/zemods.html'}
